@@ -1,5 +1,5 @@
 def percentage(x, y):
-    result = (x / y ) * 1000
+    result = (x / y ) * 100
     return result
 
 mark = int(input("Mark: "))
